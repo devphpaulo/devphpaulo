@@ -1,9 +1,9 @@
 ## Oi, eu sou o Paulo Henrique! <img width="30" height="30" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif>
 
-:computer: Sou estudante de programação e estou estudando com objetivo de me tornar um Dev Jr. em breve. <img width="30" height="30" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif>
+:computer: IFRN - Informática. <img width="30" height="30" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif>
+:computer: UERN - Ciência da Computação - 1/8  <img width="30" height="30" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif>
 
-:house_with_garden: Sou de Mossoró - RN.
-
+:books: Estudando linguagem C.
 :books: Por enquanto vou utilizar aqui como um portifólio e vou postando as coisas conforme aprendo. <img width="20" height="20" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif">
 
 ## Redes Sociais: @devphpaulo
