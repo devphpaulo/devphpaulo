@@ -4,11 +4,11 @@
 
 :computer: UERN - Ciência da Computação - 1/8
 
-:sparkles: Estudando linguagem C. :running: <br />
+:sparkles: Estudando linguagem C. <br />
 
 :alien: Python, MySQL, HTML, CSS, PHP. <br />
 
-:running: Por enquanto vou utilizar aqui como um portifólio e vou postando as coisas conforme aprendo. <img width="20" height="20" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif">
+:running: Por enquanto vou utilizar aqui como um portifólio e vou postando as coisas conforme aprendo. 
 
 ## Redes Sociais: @devphpaulo
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
