@@ -2,11 +2,11 @@
 
 :penguin: IFRN - Informática. :penguin: <br />
 
-:computer: UERN - Ciência da Computação - 1/8
+:computer: UERN - Ciência da Computação - 2/8
 
-:sparkles: Estudando linguagem C. <br />
+:sparkles: Estudando Java. <br />
 
-:alien: Python, MySQL, HTML, CSS, PHP. <br />
+:alien: Python, MySQL, HTML, CSS, PHP, C. <br />
 
 :running: Por enquanto vou utilizar aqui como um portifólio e vou postando as coisas conforme aprendo. 
 
