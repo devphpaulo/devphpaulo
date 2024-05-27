@@ -2,12 +2,10 @@
 
 :penguin: IFRN - Informática. :penguin: <br />
 
-:computer: UERN - Ciência da Computação - 2/8
+:computer: Unifatecie - Análise e Desenvolvimento de Sistemas - 1/5
 
-:sparkles: Estudando Java. <br />
+:sparkles: Estudando Java e Data Science. <br />
 
 :alien: Python, MySQL, HTML, CSS, PHP, C. <br />
-
-:running: Por enquanto vou utilizar aqui como um portifólio e vou postando as coisas conforme aprendo. 
 
 ## Redes Sociais: @devphpaulo
