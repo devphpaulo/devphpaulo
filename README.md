@@ -6,4 +6,4 @@
 
 ### Linguagens :alien:
 - **Desenvolvimento Atual:** Java e Data Science
-- **Experiências Anteriores:** Python, MySQL, HTML, CSS, PHP, C
+- **Experiências Anteriores:** PHP, Laravel, Python, MySQL, HTML, CSS, C
