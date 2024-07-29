@@ -2,7 +2,7 @@
 
 ### Formação Acadêmica :computer:
 - **IFRN:** Técnico em Informática
-- **Unifatecie:** Análise e Desenvolvimento de Sistemas (1/5)
+- **Unifatecie:** Análise e Desenvolvimento de Sistemas (2/5)
 
 ### Linguagens :alien:
 - **Desenvolvimento Atual:** Java e Data Science
