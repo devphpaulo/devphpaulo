@@ -2,8 +2,8 @@
 
 ### Formação Acadêmica :computer:
 - **IFRN:** Técnico em Informática
-- **Gran Faculdade:** Data Science (2/5)
+- **Gran Faculdade:** Data Science (3/5)
 
 ### Linguagens :alien:
-- **Desenvolvimento Atual:** PHP e Python
-- **Experiências Anteriores:** JavaScript, MYSql, SQL
+- **Desenvolvimento Atual:** Cypress e Python
+- **Experiências Anteriores:** MYSQL, SQL, PHP e Java
